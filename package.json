@@ -1,0 +1,16 @@
+{
+  "name": "gulpdemo",
+  "version": "0.0.1",
+  "description": "Gulp basic",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rktel",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^1.7.0",
+    "gulp": "^3.8.10",
+    "gulp-sass": "^1.1.0"
+  }
+}
